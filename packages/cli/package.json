@@ -33,7 +33,7 @@
     "@google/gemini-cli-core": "file:../core",
     "@google/genai": "1.41.0",
     "@iarna/toml": "^2.2.5",
-    "@modelcontextprotocol/sdk": "^1.23.0",
+    "@modelcontextprotocol/sdk": "^1.32.2",
     "ansi-escapes": "^7.3.0",
     "ansi-regex": "^6.2.2",
     "chalk": "^4.1.2",
@@ -59,16 +59,16 @@
     "proper-lockfile": "^4.1.2",
     "react": "^19.2.0",
     "shell-quote": "^1.8.3",
-    "simple-git": "^3.28.0",
+    "simple-git": "^4.1.0",
     "string-width": "^8.1.0",
     "strip-ansi": "^7.1.0",
     "strip-json-comments": "^3.1.1",
     "tar": "^7.5.8",
     "tinygradient": "^1.1.5",
-    "undici": "^7.10.0",
+    "undici": "^7.30.2",
     "ws": "^8.16.0",
     "yargs": "^17.7.2",
-    "zod": "^3.23.8"
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@google/gemini-cli-test-utils": "file:../test-utils",
@@ -82,7 +82,7 @@
     "@types/yargs": "^17.0.32",
     "@xterm/headless": "^5.5.0",
     "typescript": "^5.3.3",
-    "vitest": "^3.1.1"
+    "vitest": "^5.1.0"
   },
   "engines": {
     "node": ">=20"
